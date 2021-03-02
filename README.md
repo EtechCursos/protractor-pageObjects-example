@@ -3,7 +3,7 @@
 Nesse projeto podemos entender a utilização de pageObjects na automação de testes com o framework Protractor. Ele faz parte de uma vídeo aula da E.Tech.
 
 ## Vídeo-aula
-[Youtube](https://www.youtube.com/channel/UCtE19r_75-qBB9DnFXGXc_Q)
+[Youtube](https://youtu.be/7kGHactc6XY)
 ## Documentações
 [Jasmine](https://jasmine.github.io/)\
 [Protractor](https://www.protractortest.org/#/)
